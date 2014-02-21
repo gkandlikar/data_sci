@@ -6,7 +6,12 @@ The api is also not very great. Some comments here: http://apievangelist.com/201
 The api returns JSON data. See below for a sample result.
 
 ### iPython Notebook ###
+
+Click here to access the pretty version: 
+http://nbviewer.ipython.org/github/gkandlikar/data_sci/blob/master/project/crunchbase.ipynb?create=1
+
 #### Entries ####
+
 
 * 1: 	Ignore this one
 * 2: 	This is used to connect to the 'search' endpoint. 
