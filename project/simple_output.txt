@@ -1,4 +1,4 @@
-Name	Permalink	Namespace
+Name	permalink	namespace
 Arcon HealthCare	arcon-healthcare	company
 Change Healthcare	change-healthcare	company
 New Healthcare Enterprises	new-healthcare-enterprises	company
@@ -137,7 +137,6 @@ Infina Connect Healthcare Systems	infina-connect-healthcare-systems	company
 Tenet Healthcare Corporation	tenet-healthcare-corporation	company
 Otto Bock HealthCare India Pvt. Ltd.	otto-bock-healthcare-india-pvt-ltd	company
 Kindred Healthcare	kindred-healthcare	company
-Clinical Healthcare	clinical-healthcare	company
 Monica Healthcare	monica-healthcare	company
 CML HealthCare	cml-healthcare	company
 Dreas Healthcare	dreas-healthcare	company
@@ -159,6 +158,8 @@ STX Healthcare Management Services	stx-healthcare-management-services	company
 Columbus Regional Healthcare System	columbus-regional-healthcare-system	company
 Arlington HealthCare	arlington-healthcare	company
 Acadia Healthcare	acadia-healthcare	company
+North Georgia Healthcare Center	north-georgia-healthcare-center	company
+Ion Healthcare	ion-healthcare	company
 Asian Healthcare Fund	asian-healthcare-fund	financial-organization
 Provident Healthcare Ventures	provident-healthcare-ventures	financial-organization
 Frazier Healthcare Ventures	frazier-healthcare-ventures	financial-organization
@@ -196,6 +197,7 @@ HealthTech Management Services	healthtech-management-services	company
 Alchemy Pharmatech Ltd.	alchemy-pharmatech-ltd	company
 Xenex Disinfection Services	xenex-disinfection-services	company
 Take Care Health Employer Solutions	take-care-health-employer-solutions	company
+eVeritas, Inc.	everitas-inc	company
 Insight Medical Healthcare Information Systems	insight-medical-healthcare-information-systems	company
 Technology Association of Georgia Healthcare Society	technology-association-of-georgia-healthcare-society	company
 Health Hero Network(Bosch Healthcare)	health-hero-network	company
@@ -273,7 +275,7 @@ Travenol Healthcare Information Systems	travenol-healthcare-information-systems	
 Age D’Or Healthcare Pte Ltd	age-dor-healthcare-pte-ltd	company
 Kforce Healthcare, Inc.	kforce-healthcare-inc	company
 Premier Healthcare	premier-healthcare	company
-Healthcare Services International	healthcare-services-international	company
+Healthcare Services Group	healthcare-services-international	company
 united healthcare practice solutions	united-healthcare-practice-solutions	company
 PharMEDium Healthcare	pharmedium-healthcare	company
 Odyssey Healthcare	odyssey-healthcare	company
@@ -386,6 +388,14 @@ Sphera Global Healthcare Fund	sphera-global-healthcare-fund	company
 Provident Healthcare	provident-healthcare	company
 Healthcare Management Systems	healthcare-management-systems	company
 Principal Behavioral Healthcare	principal-behavioral-healthcare	company
+Merck Consumer Healthcare	merck-consumer-healthcare	company
+Healthcare Distributors	healthcare-distributors	company
+Healthcare Trust of America	healthcare-trust-of-america	company
+Integrated Healthcare Holdings	integrated-healthcare-holdings	company
+F&S Healthcare Services	f-s-healthcare-services	company
+Kraft Healthcare Consulting	kraft-healthcare-consulting	company
+Nashville’s healthcare	nashvilles-healthcare	company
+Nashville Healthcare Community	nashville-healthcare-community	company
 MPV	mpv	company
 China Healthcare Partnership	china-healthcare-partnership	financial-organization
 MP Healthcare Venture Management	mp-healthcare-venture-management-inc	financial-organization
@@ -404,6 +414,7 @@ Spindletop Healthcare Capital	spindletop-healthcare-capital	financial-organizati
 Healthcare DataBank	healthcare-databank	financial-organization
 Argent Healthcare Financial Services Inc.	argent-healthcare-financial-services-inc	financial-organization
 VFAST Healthcare Operations Portal	vfast-healthcare-operations-portal	product
+Healthcare Financial Services	healthcare-financial-services	financial-organization
 Healthcare Executives Email List	healthcare-executives-email-list	product
 Aya Healthcare - Travel Nursing	aya-healthcare-travel-nursing	product
 Aya Healthcare - Therapy Jobs	aya-healthcare-therapy-jobs	product
@@ -417,6 +428,7 @@ Healthcare Services	healthcare-services	product
 PARAS: A Patient Centric Comprehensive & Integrated Healthcare Delivery Platform	paras-a-patient-centric-comprehensive-integrated-healthcare-delivery-platform	product
 Healthcare Tech News	healthcare-tech-news	product
 Healthcare Network	healthcare-network	product
+Healthcare University	healthcare-university	product
 Healthcare, Diabetes	diabetes-healthcare	person
 Glide Health	glide-health	company
 dxcare.com	dxcare-com	company
@@ -498,6 +510,7 @@ digitalMedLab	digitalmedlab	company
 Zoosh	zoosh	company
 Vitanect	vitanect	company
 CereBrahm Innovations	cerebrahm-innovations	company
+Not Impossible	not-impossible	company
 Healthline Networks	healthline	company
 Modern Medicine	modern-medicine	company
 GlaxoSmithKline	glaxosmithkline	company
@@ -580,7 +593,7 @@ Healcon Labs	healcon-labs	company
 Monsoon Company	monsoon-company	company
 Boondoc	boondoc	company
 ProActive Physical Therapy	proactive-physical-therapy	company
-Phlebotek	phlebotek	company
+Phlebotek Phlebotomy Solutions	phlebotek	company
 Medlio	medlio	company
 AudiaHealth	audiahealth	company
 MedicalMime	medicalmime	company
@@ -617,16 +630,20 @@ CredSimple	credsimple	company
 Medxnote	medxnote	company
 iCliniq	icliniq	company
 Ensa	ensa	company
+ReelDx, Inc.	reeldx-inc	company
 GetMyRx	getmyrx	company
 Sirenum	sirenum	company
 RevSpring	revspring	company
 Meed Comunicacion	meed	company
+Chiron Health	chiron-health	company
 BeckonCall	beckoncall	company
+Vital Health Data Solutions	vital-health-data-solutions	company
 Burcham, Michael	michael-burcham	person
 Zang, Dr. Sharon	dr-sharon-zang	person
 Borukhovich, Eugene	eugene-borukhovich	person
 Pithadia, Neil	neil-pithadia	person
 Sharma, Anupendra	anupendra-sharma	person
+Evolve EMR	evolve-emr	product
 Ward, Rebecca	rebecca-ward-2	person
 Samani, Kyle	kyle-samani	person
 Canaan Partners	canaan-partners-2	financial-organization
@@ -634,7 +651,6 @@ Baird Venture Partners	baird-venture-partners	financial-organization
 WINGS	wings	financial-organization
 Duet Health	duet-health	product
 Downs, Sean	sean-downs	person
-Evolve EMR	evolve-emr	product
 Kulkarni, Sanjeev	sanjeev-kulkarni	person
 Weiss, Nathaniel	nathaniel-weiss	person
 Lindsey, Lora	lora-lindsey	person
@@ -675,16 +691,18 @@ Ahmad, Amik	amik-ahmad	person
 Ford Jr., Dennis	dennis-ford-jr	person
 Sousa, Ricardo	ricardo-sousa-3	person
 Venkatachalam, Balasubramanian	balasubramanian-venkatachalam-2	person
+Lawrence, Jonathan I	jonathan-i-lawrence	person
 HealthCare.com	healthcare-com	company
 H. Petit, Parker	parker-h-petit	person
 G. Bleser, Joseph	joseph-g-bleser	person
-Gonzalez Arrivillaga, Julio	julio-gonzalez-arrivillaga	person
 Vela, Sergio	sergio-vela	person
 de Tezanos, Matias	matias-de-tezanos	person
 W. Monster, Robert	robert-w-monster	person
 Garzina, Ismael	ismael-garzina	person
 Rey, Daniel	daniel-rey	person
 Simonet, Gabriel	gabriel-simonet	person
+Vargas, Jose	jose-vargas	person
+Gonzalez Arrivillaga, Julio	julio-gonzalez-arrivillaga	person
 Yeh, Howard	howard-yeh	person
 Yeh, Howard	howard-yeh-2	person
 Foster, Michael	michael-foster	person
@@ -694,6 +712,7 @@ Hancock, Jeff	jeff-hancock	person
 W. Kizer, Kenneth	kenneth-w-kizer	person
 C. Pelham, Judith	judith-c-pelham	person
 Boyer, Dean	dean-boyer	person
+Lakes, James	james-lakes	person
 FairCare	faircare	company
 Drane, Alexandra	alexandra-drane	person
 Parks, Christopher	christopher-parks	person
@@ -723,6 +742,7 @@ de Bruin, Hugo	hugo-de-bruin	person
 Clark, Andrea	andrea-clark	person
 Client Outlook	client-outlook	company
 emids	emids	company
+Guokang Health Management	guokang-health-management	company
 Bioventures Investors	bioventures-investors	financial-organization
 FCA Venture Partners	fca-venture-partners	financial-organization
 Pacific Venture Group	pacific-venture-group	financial-organization
@@ -761,6 +781,7 @@ Barbaro, Leo	leo-barbaro	person
 M. Jones, Jeremy	jeremy-m-jones	person
 Canopy Apps	canopy-apps	company
 Dean, Deborah	deborah-dean	person
+Lu, Katherine	katherine-lu	person
 MagnaCare Holdings	magnacare-holdings	company
 Essex Woodlands Health Ventures	essex-woodlands-health-ventures	financial-organization
 MTS Health Investors	mts-health-investors	financial-organization
@@ -880,6 +901,7 @@ R. Anastos, Jr., Charles	charles-r-anastos-jr	person
 AXIOM Systems	axiom-systems	company
 Mott, David	david-mott	person
 Foster, Bart	bart-foster	person
+Fleming, Gene	gene-fleming	person
 Stelfox, Kevin	kevin-stelfox	person
 J. Pellini, Michael	michael-j-pellini	person
 Honigberg, Robert	robert-honigberg	person
@@ -916,6 +938,7 @@ Klink, Jim	jim-klink	person
 GAUTAM, Sudhi	sudhi-gautam	person
 S. Rives, James	james-s-rives	person
 Mendoza, Gary	gary-mendoza	person
+iMOSPHERE	imosphere	company
 Prestipino, Dale	dale-prestipino	person
 Spiro, Alan	alan-spiro	person
 Pappajohn, John	john-pappajohn-2	person
@@ -1005,7 +1028,13 @@ Kuntz, Thornton	thornton-kuntz	person
 HOGAN, JEFFREY	jeffrey-hogan	person
 Schulz, Bob	bob-schulz	person
 C. (Rick) Lee, Frederick	frederick-c-rick-lee	person
+Selzer, Ken	ken-selzer	person
+Altman, Samuel	samuel-altman	person
+J. DeWald, Maurice	maurice-j-dewald	person
 CenTrak	http-www-centrak-com	company
+C.Fleming, Eugene	eugene-c-fleming	person
+Medable, Inc.	medable-inc	company
+Exmodo	exmodo	company
 Split Rock Partners	split-rock-partners	financial-organization
 Psilos Group	psilos-group	financial-organization
 Medical Capital Corporation	medical-capital-corporation	financial-organization
@@ -1094,12 +1123,14 @@ Swirl Infosystems	swirl-infosystems	company
 Ankota	ankota	company
 Parekh, Nimish	nimish-parekh	person
 HealthDataInsights	healthdatainsights	company
+Hirsch, Jonathan	jonathan-hirsch	person
 Sharecare	sharecare	company
 Gatto, Vic	vic-gatto	person
 The Beryl Companies	the-beryl-companies	company
 MedBioWeb	medbioweb	company
 HealthcareSource	healthcaresource	company
 MedSolutions	medsolutions	company
+HealthEdge Software	healthedge-software	company
 Warta, Matt	matt-warta	person
 Wyles, Peter	peter-wyles	person
 TriZetto	trizetto	company
@@ -1187,7 +1218,6 @@ Springer, Bruce	bruce-springer	person
 Kunkleman, Carl	carl-kunkleman	person
 Drant, Ryan	ryan-drant	person
 Skibinski, David	david-skibinski	person
-iMOSPHERE	imosphere	company
 Hughes, Jr, Owen	owen-hughes-jr	person
 Roberts, Tom	tom-roberts	person
 Vital Connect	vital-connect	company
@@ -1350,6 +1380,7 @@ Nagim, Ryan	ryan-nagim	person
 NaphCare	naphcare	company
 Beam, Jay	jay-beam	person
 Voss, Greg	greg-voss	person
+Zakipoint	zakipoint	company
 Katiyar, Satin	satin-katiyar	person
 Morris, Courtney	courtney-morris	person
 Arevo Health	arevo-health	company
@@ -1409,8 +1440,20 @@ Litsch, Diann	diann-litsch	person
 Pike, Tom	tom-pike	person
 Sheehan, Daniel	daniel-sheehan	person
 Botsaris, Helen	helen-botsaris	person
+J. Sardone, Frank	frank-j-sardone	person
+Porter, David	david-porter-2	person
+Adkin, Steve	steve-adkin	person
+C. Davis, Todd	todd-c-davis	person
+B. Futch, Clarke	clarke-b-futch	person
+F. Brinzey, Christopher	christopher-f-brinzey	person
+West, Paul	paul-west-2	person
+Kennedy, Keith	keith-kennedy	person
+Hopperton, Mark	mark-hopperton	person
+Southwick, Bill	bill-southwick	person
 Surface Medical	surface-medical	company
 Factor 14	factor-14	company
+Fusion Medical Animation	fusion-medical-animation	company
+ChipRewards	chiprewards	company
 Blue Chip Venture Company	blue-chip-venture-company	financial-organization
 Galleon Group	galleon-group	financial-organization
 Stephens, Dean	dean-stephens	person
@@ -1508,7 +1551,9 @@ Conexus Financial Partners	conexus-financial-partners	financial-organization
 Princeton Biopharma Capital Partners	princeton-biopharma-capital-partners	financial-organization
 Physician Investor Network	physician-investor-network	financial-organization
 Good Technology	good-technology	company
+Greenwings Biomedical	greenwings-biomedical	financial-organization
 Microsoft Health Vault	microsoft-health-vault	company
+XLerateHealth	xleratehealth	financial-organization
 Tendler, Walter	walter-tendler	person
 Tangible Express	tangible-express	company
 drkoop.com	drkoop	company
@@ -1596,8 +1641,10 @@ A. Brown, Howard	howard-a-brown	person
 Connelly, Jim	jim-connelly	person
 Galakatos, Nicholas	nicholas-galakatos	person
 Henner, Dennis	dennis-henner	person
+C. Gale, James	james-c-gale	person
 Naegeli, Jean-Pierre	jean-pierre-naegeli	person
 360logica software testing	360logica-software-testing	company
+Zabriskie, John	dr-john-zabriskie	person
 Mindsite	mindsite	company
 Holdsworth, Zak	zak-holdsworth	person
 Apogee Informatics	apogee-informatics	company
@@ -1617,6 +1664,7 @@ Stern, Robert	robert-stern	person
 Hamilton, James	james-hamilton	person
 Language & Computing	language-computing	company
 A. Bennack, Jr, Frank	frank-a-bennack-jr	person
+HealthCrowd	healthcrowd	company
 Allocade	allocade	company
 McCabe, Jen	jen-mccabe	person
 Blackburn, Jeremy	jeremy-blackburn	person
@@ -1716,7 +1764,6 @@ Mercadante, Ed	ed-mercadante	person
 R. McKnight Jr, James	james-r-mcknight-jr	person
 Hartman, Craig	craig-hartman	person
 N. Martin, Charles	charles-n-martin	person
-Privia Health	privia-health	company
 Symphony Corporation	symphony-corporation	company
 Pieraldi, Stephen	stephen-pieraldi	person
 Intermedix Corporation	intermedix-corporation	company
@@ -1799,9 +1846,9 @@ Ximedica	ximedica	company
 HOYA CORPORATION	hoya-corporation	company
 Ricklefs, Lowell	lowell-ricklefs	person
 Smith, Lisa	lisa-smith	person
-Solace Therapeutics	solace-therapeutics	company
-Cambia Health Solutions	cambia-health-solutions	company
-Xtelligent Media	xtelligent-media	company
+PureFormulas.com	pureformulas-com	company
+VeoMed	veomed	company
+Axolotl	axolotl	company
 HIT Application Solutions	hit-application-solutions	company
 Cozzens, Todd	todd-cozzens	person
 Fields, Jane	jane-fields	person
@@ -1809,9 +1856,9 @@ Ximedica	ximedica	company
 HOYA CORPORATION	hoya-corporation	company
 Ricklefs, Lowell	lowell-ricklefs	person
 Smith, Lisa	lisa-smith	person
-ClaimSync	claimsync	company
-Pathria, Anu	anu-pathria	person
-Connolly	connolly	company
+PureFormulas.com	pureformulas-com	company
+VeoMed	veomed	company
+Axolotl	axolotl	company
 Meng Ang, Tit	tit-meng-ang	person
 Medecure	medecure	company
 GroupMD	groupmd	company
@@ -1850,7 +1897,7 @@ Health Essentials	health-essentials	company
 AplusA Research	aplusa-research	company
 Mint Solutions	mint-solutions	company
 Selkis, Ryan	ryan-selkis	person
-Augme Technologies	augme-technologies	company
+Hipcricket, Inc.	hipcricket-inc	company
 Roche Diagnostics	roche-diagnostics	company
 ARcare	arcare	company
 Fong, Kyna	kyna-fong	person
@@ -1886,6 +1933,7 @@ Aguero, Manuel	manuel-aguero	person
 Allen, Dick	dick-allen	person
 Nazem, Fred	fred-nazem	person
 Chetu Inc	chetu-inc	company
+MedBip	medbip	company
 Vandevenne, Rik	rik-vandevenne	person
 Kangu.org	kangu-org	company
 HelpAround	helparound	company
@@ -1901,10 +1949,11 @@ CriticMania.com	criticmania-com	company
 Lukas, Ivo	ivo-lukas	person
 Cavallini, Gian	gian-cavallini	person
 A. Gibbs, Matthew	matthew-a-gibbs	person
+Quture	quture	company
 Zeini, Hani	hani-zeini	person
 Delagardelle, Jeani	jeani-delagardelle	person
 Black, Paul	paul-black	person
-FlashStarts	flashstarts	company
+Flashstarts	flashstarts	company
 Heil, Eric	eric-heil	person
 Hollowood, Christopher	christopher-hollowood	person
 J. Naini, Nader	nader-j-naini	person
@@ -1976,16 +2025,17 @@ Abrahams, Gary	gary-abrahams-2	person
 Douglas, Terry	terry-douglas	person
 beBetter Health	bebetter-health	company
 Finn, Patrick	patrick-finn	person
+Bell, Michael	michael-bell-3	person
 A. Kramer, Kelly	kelly-a-kramer	person
 MedEnhanz Resources	medenhanz-resources	company
 Wallach, Matt	matt-wallach	person
-Dyke, Richard	richard-dyke	person
 S. Kenley, Rodney	rodney-s-kenley	person
 BioScrip	bioscrip	company
 Abrahams, Gary	gary-abrahams-2	person
 Douglas, Terry	terry-douglas	person
 beBetter Health	bebetter-health	company
 Finn, Patrick	patrick-finn	person
+Bell, Michael	michael-bell-3	person
 A. Kramer, Kelly	kelly-a-kramer	person
 MedEnhanz Resources	medenhanz-resources	company
 Wallach, Matt	matt-wallach	person
@@ -2021,7 +2071,7 @@ Solakyan, Sam	sam-solakyan	person
 B. Pitts, Keith	keith-b-pitts	person
 I. Tepper, Robert	robert-i-tepper	person
 Geary, William	william-geary	person
-Healthation	healthation	company
+Aldera	aldera	company
 Bovie, Darren	darren-bovie	person
 Medisys Health Group	medisys-health-group	company
 D. Isaly, Samuel	samuel-d-isaly	person
@@ -2114,6 +2164,7 @@ Crawford, Charlie	charlie-crawford	person
 Dacko, Ted	ted-dacko	person
 Shea, Mike	mike-shea	person
 Devgon, Pitamber	pitamber-devgon	person
+Wicki, Andreas	andreas-wicki	person
 Wiegman, Al	al-wiegman	person
 T. Wilk, Michael	michael-t-wilk	person
 Forest Xu, Dr.	dr-forest-xu	person
@@ -2150,6 +2201,7 @@ FIGS	figs	company
 Amar, Anshul	anshul-amar	person
 Emcure Pharmaceuticals	emcure-pharmaceuticals	company
 Outerbridge, Amanda	amanda-outerbridge	person
+J. Bullington, Gregory	gregory-j-bullington	person
 Vance, Terry	terry-vance	person
 Ruskin Moscou Faltischek	ruskin-moscou-faltischek	company
 Wallace, Ira	ira-wallace	person
@@ -2259,6 +2311,7 @@ Termeer, Henri	henri-termeer	person
 Collins, William	william-collins	person
 Tanzer, Matthew	matthew-tanzer	person
 Peter Bach, Dr.	dr-peter-bach-3	person
+L. Carson, Russell	russell-l-carson	person
 Donnelly, Mark	mark-donnelly	person
 Neal Morrison, D.	d-neal-morrison	person
 Snapp, Scott	scott-snapp	person
@@ -2414,6 +2467,7 @@ Feygin, Lena	lena-feygin	person
 Kupferschmid, James	james-kupferschmid	person
 L. Douglas, Frank	frank-l-douglas	person
 Clark, Carol	carol-clark	person
+Michael Epstein, Prof.	prof-michael-epstein	person
 Torpunuri, Vik	vik-torpunuri	person
 MedTera Solutions	medtera-solutions	company
 Medical Connections	medical-connections	company
@@ -2500,12 +2554,36 @@ Rosati, Chris	chris-rosati	person
 Arctrieval	arctrieval	company
 Mullins, Leslie	leslie-mullins	person
 Rise Medical Staffing	rise-medical-staffing	company
+Stevenson, Gary	gary-stevenson	person
+Blair, Jack	jack-blair	person
+Spaude, Paul A.	paul-a-spaude	person
+Gray, Sam	sam-gray	person
+Shiozaki, Eric	eric-shiozaki	person
 GenKey Solutions	genkey-solutions	company
 Competech SmartCard Solutions	competech-smartcard-solutions	company
+Glisk, Ron	ron-glisk	person
+Sirlin, Evan	evan-sirlin	person
+Schooley, Troy	troy-schooley	person
+Machover, Eitan	eitan-machover	person
 OPTIMIZERx	optimizerx	company
+Pilgrim, Alan	alan-pilgrim	person
+Sone, Todd	todd-sone	person
+Zeiger, Martin	martin-zeiger	person
+Herter, Daniel	daniel-herter	person
+Sacks, Ian	ian-sacks	person
+A. Young, Matthew	matthew-a-young	person
+G. Goodman, Alan	alan-g-goodman	person
+Collett, Martyn	martyn-collett	person
+M. Meister, Paul	paul-m-meister	person
+Charles DeGour, Robert	robert-charles-degour	person
+Zohar, Daphne	daphne-zohar	person
 Med fusion	med-fusion	company
 Geneix	geneix	company
 MedLink	medlink	company
+Oberoi, Arjun	arjun-oberoi	person
+Wallace, Jennifer	jennifer-wallace	person
+Niewiadomska, Paulina	paulina-niewiadomska	person
+Miller, Andy	andy-miller-9	person
 StrongAuth	strongauth	company
 Aligned TeleHealth	aligned-telehealth	company
 ProjectLift	projectlift	company
@@ -2513,7 +2591,11 @@ India Home Health Care Pvt Ltd	india-home-health-care-pvt-ltd	company
 American TeleCare	american-telecare	company
 Breas Medical	breas-medical	company
 Etransmedia Technology	etransmedia-technology	company
+MEDAXS	medaxs	company
 Infusion Resource	infusion-resource	company
+United Preference	united-preference	company
+Persei consulting	persei-consulting	company
+Chindex International	chindex-international	company
 Li Ka Shing Foundation	li-ka-shing-foundation	financial-organization
 Racepoint Group	racepoint-group	service-provider
 Sequel Venture Partners	sequel	financial-organization
@@ -2679,6 +2761,7 @@ Great Hill Partners	great-hill-partners	financial-organization
 Paul Capital	paul-capital-healthcare	financial-organization
 AirTight Networks	airtight-networks	company
 Revolution Health	revolution-health	company
+Banc of America Securities	banc-of-america-securities	financial-organization
 CorporacciÃ³nCan - Grupo Corporativo Empresarial Caja Navara	corporaccincan-grupo-corporativo-empresarial-caja-navara	financial-organization
 Vendaria	vendaria	company
 Voltage Security	voltage-security	company
@@ -2945,14 +3028,17 @@ DPE Deutsche Private Equity	dpe-deutsche-private-equity	financial-organization
 Brahmbhatt, Kintan	kintan-brahmbhatt	person
 Carousel Capital	carousel-capital	financial-organization
 Lantronix	lantronix	company
+H. Kim, John	john-h-kim	person
 Killilea, Alison	alison-killilea	person
 EFactor	e-factor	company
+zPark Venture	zpark-venture	financial-organization
 Syncona Partners LLP.	syncona-partners-llp	financial-organization
 TESCRA	tescra	company
 AJR & Partners	ajr-partners	company
 Navara	navara	company
 Inspovation Ventures	inspovation-ventures	financial-organization
 Mojopac	mojopac	product
+Selway Capital	selway-capital	financial-organization
 VentureHealth	venturehealth	financial-organization
 Ventureast	ventureast-tenet-fund	financial-organization
 SilverStream Capital	silverstream-capital	financial-organization
@@ -3588,7 +3674,6 @@ Kreatech Diagnostics	kreatech-diagnostics	company
 Clavis Pharma	clavis-pharma	company
 S. Cobbs, Jerald	jerald-s-cobbs	person
 Erony, Joyce	joyce-erony	person
-C. Gale, James	james-c-gale	person
 H. Archibald, Carroll	carroll-h-archibald	person
 Moulson, Richard	richard-moulson	person
 Turek, Jan	jan-turek	person
@@ -3628,6 +3713,7 @@ zveloCAT™ Beta	zvelocat	product
 Combinent Biomedical Systems	combinent-biomedical-systems	company
 D.N. Security Services	d-n-security-services	company
 InfoStretch Solutions	infostretch-solutions	company
+Merck KGaA	merck-kgaa	company
 Kensel, Brendon	brendon-kensel	person
 Maheshwari, Puneet	puneet-maheshwari	person
 Instantis	instantis	company
@@ -3651,6 +3737,7 @@ Amicas	amicas	company
 Snape, Edwin	edwin-snape	person
 M. Jones IV, Hugh	hugh-m-jones-iv	person
 McCullough, Michael	michael-mccullough	person
+Hippo Facility Management Technologies	hippo-fm	company
 CBIZ	cbiz	company
 iDirect	idirect	company
 Silver Creek Systems	silver-creek-systems	company
@@ -3707,6 +3794,7 @@ Ai2 UK	ai2-uk	company
 Intuitive Automata	intuitive-automata	company
 LiquidHub	liquidhub	company
 NextNine	nextnine	company
+FacilityDude	facilitydude	product
 MEDHOST	medhost	company
 Gotham Media	gotham-media	company
 Robertson, Craig	craig-robertson	person
@@ -3741,7 +3829,7 @@ CRI Technologies	cri-technologies	company
 Verdasys	verdasys	company
 Rakan Systems	rakan-systems	company
 Roberts, Edward	edward-roberts	person
-Hadar Ron, Dr.	dr-hadar-ron	person
+Ron, Hadar	dr-hadar-ron	person
 Overland Storage	overland-storage	company
 Alsbridge	alsbridge	company
 Deep Nines	deep-nines	company
@@ -3770,7 +3858,6 @@ F. O'Donnell, Jeffrey	jeffrey-f-odonnell	person
 SensiGen	sensigen	company
 Hurix Systems Private	hurix-systems-private	company
 Smith, David	david-smith-5	person
-HealthCrowd	healthcrowd	company
 Cleversafe	cleversafe	company
 Iperia	iperia	company
 Adea	adea	company
@@ -3848,6 +3935,7 @@ Kielek, Mark	mark-kielek	person
 Pinto, Rohan	rohan-pinto	person
 Ward, Mike	mike-ward	person
 HiT Barcelona	hit-barcelona	company
+Hansen, Albert	albert-hansen	person
 CKR Interactive	ckr-interactive	company
 FatDUX	fatdux	company
 miCARD	micard	company
@@ -3906,12 +3994,12 @@ Cipla	cipla	company
 IncellDx	incelldx	company
 Virtual Medical Centre	virtual-medical-centre	company
 Williams, Jeff	jeff-williams-2	person
-Czechowicz, Tomasz	tomasz-czechowicz	person
 J. Gallivan, Gerald	gerald-j-gallivan	person
 Chapin Revenue Cycle Management	chapin-revenue-cycle-management	company
 Care4IT	care4it	company
 Toler, Eric	eric-toler	person
 J. Guzy, Christopher	christopher-j-guzy	person
+James McNerney, Jr., W.	w-james-mcnerney-jr	person
 Rosenwald, Lindsay	lindsay-rosenwald	person
 Data Prospects	data-prospects	company
 RememberItNow	rememberitnow	company
@@ -4111,6 +4199,7 @@ Bausch & Lomb	bausch-lomb	company
 IntelliSoft Group	intellisoft	company
 Mitroff, David	david-mitroff	person
 Shareable Ink	shareable-ink	company
+ethology	ethology	company
 Engineering, Evolution	evolution-engineering	person
 Davis, Keith	keith-davis	person
 Insource Technology	insource-technology	company
@@ -4118,7 +4207,6 @@ R. Schroeder, Theodore	theodore-r-schroeder	person
 Core Solutions	core-solutions	company
 Dataguise	dataguise	company
 outsourceIT	outsourceit	company
-HealthEdge Software	healthedge-software	company
 Danex Solutions(ex-VIactivity)	viactivity	company
 Med Staff On-Call	med-staff-on-call	company
 IdentyTech	identytech	company
@@ -4456,6 +4544,7 @@ Avion Technology Inc.	avion-technology-inc	company
 Hudson, Doug	doug-hudson	person
 Cleckner, Paul	paul-cleckner	person
 M. Rutledge, John	john-m-rutledge	person
+Privia Health	privia-health	company
 Idea Grove	idea-grove	company
 ITR mobility	itr-mobility	company
 Tensha Therapeutics	tensha-therapeutics	company
@@ -4486,6 +4575,7 @@ Howell, Ken	ken-howell	person
 Williams, Sean	sean-williams	person
 Lisa Nolan, Dr.	dr-lisa-nolan	person
 Mehling, Ben	ben-mehling	person
+F. Eaton, Gregory	gregory-f-eaton	person
 Lhuillier, Bryan	bryan-lhuillier	person
 Greene, Barry	barry-greene-2	person
 O'Leary, Kevin	kevin-oleary	person
@@ -4983,7 +5073,7 @@ Bell, Michael	michael-bell	person
 InfoStretch	infostretch	company
 Cormack, Dave	dave-cormack	person
 DeArmitt, Ray	ray-dearmitt	person
-Nova Specialty Surgery	nova-specialty-surgery	company
+Nova Specialty Hospitals	nova-specialty-hospitals	company
 Kumar, Praveen	praveen-kumar-7	person
 Vitalbox	vitalbox	company
 Smith, Nathan	nathan-smith-4	person
@@ -5040,6 +5130,7 @@ Biogetica	biogetica	company
 Aquavit Pharmaceuticals	aquavit-pharmaceuticals	company
 DaVita	davita	company
 Emmi Solutions	emmi-solutions	company
+D. Wasson, Gregory	gregory-d-wasson	person
 delhamer, brandt	brandt-delhamer	person
 Thurber, Jalil	jalil-thurber	person
 Robert Mittendorf, Dr.	dr-robert-mittendorf	person
@@ -5077,6 +5168,7 @@ Patel, Suraj	suraj-patel-2	person
 First Telecom Services	first-telecom-services	company
 Helix Medical	helix-medical	company
 AXA PPP International	axa-ppp-international	company
+Anderson, Donald	donald-anderson	person
 iCrowdFund	icrowdfund	company
 Best Home Care	best-home-care	company
 RPI Consultants	rpi-consultants	company
@@ -5139,6 +5231,7 @@ Parekh, Adit	adit-parekh	person
 Flatworld Solutions	flatworld-solutions	company
 Borgstrom, Ned	ned-borgstrom	person
 RelayHealth	relayhealth	company
+OR Productivity	or-productivity	company
 Ziplinewebsites	ziplinewebsites	company
 iMedicor	imedicor	company
 Emont, George	george-emont	person
@@ -5172,7 +5265,6 @@ SunGard Availability Services	sungard-availability-services	company
 isleemploy	isleemploy	company
 Thym, Oliver	oliver-thym	person
 Morel, Mark	mark-f-morel	person
-Practis	practis	company
 W. Jevon, Robert	robert-w-jevon	person
 VAN THIEL, MIKE	mike-van-thiel	person
 Desai, Mehul	mehul-desai	person
@@ -5243,6 +5335,7 @@ Financial Asset Management Systems	financial-asset-management-systems	company
 Rudnick, Seth	seth-rudnick	person
 King, Matthew	matthew-king	person
 Joseph, Mark	mark-joseph	person
+Rejal, Khairu	khairu-rejal	person
 Ament, Dave	dave-ament	person
 Umscheid, Matt	matt-umscheid	person
 Nephosity	nephosity	company
@@ -5697,6 +5790,7 @@ Govette, Jonathan	jonathan-govette	person
 Imaging Advantage	imaging-advantage	company
 United Generic Pharmcy	united-generic-pharmcy	company
 Ivera Medical	ivera-medical	company
+Rusinow, Jeff	jeff-rusinow	person
 Lawrence Podmolik, J.	j-lawrence-podmolik	person
 GenerationOne	generationone	company
 Farkas, Zander	zander-farkas	person
@@ -5779,6 +5873,7 @@ van Heerden, Deon	deon-van-heerden	person
 Nativ, Anna	anna-nativ	person
 Cenergistic	cenergistic	company
 Weiss, Zeev	zeev-weiss	person
+MultiPlan	multiplan	company
 ElMessiry, Adel	adel-elmessiry	person
 Bass, John	john-bass	person
 Ativa Medical	ativa-medical	company
@@ -5982,8 +6077,10 @@ L. Rawie, Damon	damon-l-rawie	person
 Conti, Vincent	vincent-conti	person
 Horazdovsky, David	david-horazdovsky	person
 Kahn, Maxwell	maxwell-kahn	person
+Moore Sullivan, Elizabeth	elizabeth-moore-sullivan	person
 Clarity Payment Solutions	clarity-payment-solutions	company
 Talwar, Vijay	vijay-talwar	person
+Simbionix	simbionix	company
 Larson, David	david-larson	person
 Winshall, Walter	walter-winshall-2	person
 Onsite Care	onsite-care	company
@@ -6078,6 +6175,7 @@ J. Levy, Timothy	timothy-j-levy	person
 Luk, David	david-luk	person
 Miller, Larry	larry-miller-4	person
 M. Mitchell, Kathy	kathy-m-mitchell	person
+G. Giuliani, Mario	mario-g-giuliani	person
 C. Farmer, Curtis	curtis-c-farmer	person
 Chu, Jeffrey	jeffrey-chu	person
 Bersot, Ross	ross-bersot	person
@@ -6098,7 +6196,7 @@ Hickie, Brandon	brandon-hickie	person
 J. Hayden, Jr., Donald	donald-j-hayden-jr	person
 Cummings, Russ	russ-cummings	person
 Rosen, Rick	rick-rosen	person
-Lifecom	lifecom	company
+AkēLex	akelex	company
 Ruderman, Paul	paul-ruderman	person
 Xi3	xi3	company
 BlueTree Network	bluetree-network	company
@@ -6176,6 +6274,8 @@ Prestipino, Mark	mark-prestipino	person
 Lohner, Maria	maria-lohner	person
 Song, Alice	alice-song	person
 Capurro Boltendahl, Juan	juan-capurro-boltendahl	person
+C. Lee, Willis	willis-c-lee	person
+Ludlum, Peter	peter-ludlum	person
 bellus health	bellus-health	company
 LifeLabs	lifelabs	company
 Body Pass	body-pass	company
@@ -6293,6 +6393,7 @@ Huie, Scott	scott-huie	person
 Nguyen, Matthew	matthew-nguyen	person
 Iyer, Mohan	mohan-iyer	person
 Pelak, Daniel	daniel-pelak	person
+Runyan, Thea	thea-runyan	person
 Rose, T.J.	t-j-rose	person
 Zammit, Steve	steve-zammit	person
 Alluri, Vishwanath	vishwanath-alluri	person
@@ -6610,6 +6711,7 @@ Hermiston, Terry	terry-hermiston	person
 Harden, Dan	dan-harden	person
 Kucherlapati, Raju	raju-kucherlapati	person
 Pipke, Matt	matt-pipke	person
+R. Parfet, Donald	donald-r-parfet	person
 D. Wiberg, Erik	erik-d-wiberg	person
 J. Kroloff, Noah	noah-j-kroloff	person
 E. Meyer, Anthony	anthony-e-meyer	person
@@ -6671,7 +6773,6 @@ iPractice Group	ipractice-group	company
 Sabins, Gary	gary-sabins	person
 Kussman, Craig	craig-kussman	person
 Wolf, Rina	rina-wolf	person
-Byrd, David	david-byrd	person
 Plant, Stuart	stuart-plant	person
 Cordes, Ulrik	ulrik-cordes	person
 Physiomed	physiomed	company
@@ -6959,7 +7060,6 @@ Harris, Cynthia	cynthia-harris	person
 Accendo Therapeutics	accendo-therapeutics	company
 Lansing Neurosurgery	lansing-neurosurgery	company
 New Beginnings	new-beginnings	company
-JEMS Technology	jems-technology	company
 BancTec	banctec	company
 Faraone, Steve	steve-faraone	person
 New Body MD	new-body-md	company
@@ -6996,6 +7096,7 @@ Patience, John	john-patience	person
 S Douglas, Ivor	ivor-s-douglas	person
 C Chapin, Kimberle	kimberle-c-chapin	person
 L. H. Ouyang, Paul	paul-l-h-ouyang	person
+Living Independently Group	living-independently-group	company
 Xymogen	xymogn	company
 ("Sandy") D. Smith, Sandford	sandford-sandy-d-smith	person
 Doktorburada.com	doktorburada-com	company
@@ -7003,6 +7104,7 @@ W. Gryska, David	david-w-gryska-2	person
 Wenninger, Walter	walter-wenninger	person
 Noble Applications	noble-applications	company
 Dampier, Jonathan	jonathan-dampier	person
+Saxena, Manoj	manoj-saxena	person
 Evans, John	john-evans-2	person
 ASC Madison	asc-madison	company
 TMS NeuroHealth Centers Tysons Corner	tms-neurohealth-centers-tysons-corner	company
@@ -7057,6 +7159,7 @@ GeoPal Solutions	geopal-solutions	company
 Schoen, Jason	jason-schoen	person
 Tananbaum, James	james-tananbaum	person
 Delaney, Rita	rita-delaney-2	person
+Blumenfeld, Morry	morry-blumenfeld	person
 Campbell, Stew	stew-campbell	person
 Wu, Lisa	lisa-wu	person
 Jibestream	jibestream	company
@@ -7112,6 +7215,7 @@ D. Beckner, Phillip	phillip-d-beckner	person
 F. Chambers, Brian	brian-f-chambers	person
 W. Kersey, Christopher	christopher-w-kersey	person
 Pressman, Denise	denise-pressman	person
+Nephros	nephros	company
 L. Eichelberger, Harry	harry-l-eichelberger	person
 Song, Emily	emily-song	person
 Weiner, Marc	marc-weiner	person
@@ -7214,7 +7318,7 @@ E. Huang Pouleur, Jessica	jessica-e-huang-pouleur	person
 R. Schoeneck, Allison	allison-r-schoeneck	person
 Telemedicine Clinic	telemedicine-clinic	company
 S. Goldstein, Brian	brian-s-goldstein	person
-Avtar Dhillon, Dr.	dr-avtar-dhillon	person
+Vanderbilt University Medical Center	vanderbilt-university-medical-center	company
 Rieder, Bob	bob-rieder	person
 Walter, John	john-r-walter	person
 Everis	everis	company
@@ -7238,6 +7342,7 @@ Hochman, David	david-hochman	person
 ROI²	roi	company
 BioDerm	bioderm	company
 Tyler, Martin	martin-tyler	person
+Patient Army Inc	patient-army-inc	company
 Lemaitre, Dan	dan-lemaitre	person
 Paniolo Ventures	paniolo-ventures	company
 Liu, Andrew	andrew-liu-3	person
@@ -7288,6 +7393,7 @@ docBeat	docbeat	company
 Castellanos, Simon	simon-castellanos	person
 J. McCarthy, Donna	donna-j-mccarthy	person
 Ashton Muro Development Corp	ashton-muro-development-corp	company
+Powell, Rice	rice-powell	person
 Shinnick, Michael	michael-shinnick	person
 Marcus, David	david-marcus-7	person
 Covington, Paul	paul-covington	person
@@ -7343,22 +7449,22 @@ Kyron Management Services	kyron-management-services	company
 Fluential	fluential	company
 A-Vu Media	a-vu-media	company
 Roper, Elizabeth	elizabeth-roper	person
-MobiusLogic Inc	mobiuslogic-inc	company
-Patriot Care	patriot-care	company
-Oliver, Carl	carl-oliver	person
-ActionRun	actionrun	company
-Home Dialysis Plus	home-dialysis-plus	company
-Gasior, Sharron	sharron-gasior	person
+Aurigo Software	aurigo-software	company
+Curren, Brian	brian-curren	person
+Zini, Mario	mario-zini	person
+CHOUEIRI, PETER	peter-choueiri	person
+Portman, Boris	boris-portman-2	person
+Amesbarry Chiropractic	amesbarry-chiropractic	company
 Kyron Management Services	kyron-management-services	company
 Fluential	fluential	company
 A-Vu Media	a-vu-media	company
 Roper, Elizabeth	elizabeth-roper	person
-MobiusLogic Inc	mobiuslogic-inc	company
-Patriot Care	patriot-care	company
-Oliver, Carl	carl-oliver	person
-ActionRun	actionrun	company
-Home Dialysis Plus	home-dialysis-plus	company
-Gasior, Sharron	sharron-gasior	person
+Afoundria	afoundria	company
+FMS Hauppauge	fms-hauppauge	company
+MedAvail	medavail	company
+ScentAir	scentair	company
+Meidlinger, Karen	karen-meidlinger	person
+Healthpoint Services Global	healthpoint-services-global	company
 Tierney, Simon	simon-tierney	person
 K. Cox, Thomas	thomas-k-cox	person
 HealthGames	healthgames	company
@@ -7459,6 +7565,7 @@ DaPore, Nate	nate-dapore	person
 Hershkovitz, Ori	ori-hershkovitz	person
 Freeman, Brooke	brooke-freeman	person
 Todd, David	david-todd	person
+Jacobs, Gary	gary-jacobs-2	person
 Mosher, Kevin	kevin-mosher	person
 Inofile	inofile	company
 Springstone	springstone	company
@@ -7515,57 +7622,122 @@ Isomark	isomark	company
 Bouknight, Omari	omari-bouknight	person
 Conta, Bob	bob-conta	person
 JobExpress.com.au	jobexpress-com-au	company
+Jaffe, Lonne	lonne-jaffe	person
 Arnott, Melissa	melissa-arnott	person
 H. Snyder, William	william-h-snyder	person
 Reisenthel, Debra	debra-reisenthel	person
+Upton, Fred	fred-upton	person
+VanderPloeg, Kathie	kathie-vanderploeg	person
+Eddy, Vicky	vicky-eddy	person
 Kwikboost	kwikboost	company
 The Emmes Group	the-emmes-group	company
+Auffray, Valerie	valerie-auffray	person
 Arcmen Interior	arcmen-interior	company
 LiveNatural.Co	livenatural-co	company
+Tamari, Oren	oren-tamari	person
+W. Eubank II, Frederick	frederick-w-eubank-ii	person
+Glass Jr, Scott	scott-glass-jr	person
+Tindel, Andrew	andrew-tindel	person
+Yeh, David	david-yeh	person
+Ahrens, Christian	christian-ahrens	person
+Han, David	david-han	person
+Vidal, David	david-vidal	person
 Careerflo	careerflo	company
+Rodgers, Steve	steve-rodgers	person
+Miller, Jay	jay-miller	person
 Ingen Technologies	ingen-technologies	company
 Towne Park	towne-park	company
 Strategic Science & Technologies	strategic-science-technologies	company
 MedHOK	medhok	company
+Michael Long, T.	t-michael-long	person
 Revista	revista	company
 Medypal	medypal	company
+Kausch, Martha	martha-kausch	person
+Krishna, Dave	dave-krishna	person
 3ATI Labs Private Limited	3ati-labs-private-limited	company
 3ATI Labs Pvt Limited	3ati-labs-pvt-limited	company
 Cerora	cerora	company
+E. Baxter, Louis	louis-e-baxter	person
 Pneumoflex Systems	pneumoflex-systems	company
+Gutierrez, Joey	joey-gutierrez	person
+Gonzalez, Edmundo	edmundo-gonzalez	person
 AKTING	akting	company
+Williams, Ian	ian-williams-2	person
+H. McCullough, Thomas	thomas-h-mccullough	person
+Leuw, Martin	martin-leuw	person
 Veridentia	veridentia	company
+Monfrini Peev, Julia	julia-monfrini-peev	person
+Murray, Billy	billy-murray	person
+Chi, Jeffrey	jeffrey-chi	person
 Dekalb Surgical Alliance	dekalb-surgical-alliance	company
+Fu, Kefu	kefu-fu	person
+Wang, Jonas	jonas-wang	person
+L. Teti, Nicholas	nicholas-l-teti	person
+Karnik, Jwala	jwala-karnik	person
+Reade, Mark	mark-reade	person
+R. Omstead, Daniel	daniel-r-omstead	person
+C. Akus, Jason	jason-c-akus	person
+Dahan, Meir	meir-dahan	person
 OPEN-V	open-v	company
+Fritts, Michael	michael-fritts	person
+M. Lowell, John	john-m-lowell	person
 SPi Global	spi-global	company
 Inventure Enterprises	inventure-enterprises	company
+Soliday, Tyler	tyler-soliday	person
 Nufurn	nufurn	company
 ConvergenceHealth	convergencehealth	company
 Verge Solutions	verge-solutions	company
+Needham, David	david-needham	person
 Specialists On Call	specialists-on-call	company
+Wanzek, Kent	kent-wanzek	person
 Skyhighnetworks	skyhighnetworks	company
+R. Morsfield, Mark	mark-r-morsfield	person
+Goblish, Todd	todd-goblish	person
+W. Grimm, Donald	donald-w-grimm	person
 Briteseed	briteseed	company
+Mutamba, James	james-mutamba	person
 BlueStep Systems	bluestep-systems	company
+Karanam, Ketki	ketki-karanam	person
 BioQuiddity	bioquiddity	company
+TMJ Health	tmj-health	company
 Xhale	xhale	company
 Magellan Global Health	magellan-global-health	company
+Saunders, Debra	debra-saunders	person
 Unibased Systems Architecture	unibased-systems-architecture	company
+Malekian, E. Peter	e-peter-malekian	person
+Chhabria, Mahesh	mahesh-chhabria	person
+J. Keeton, Sonja	sonja-j-keeton	person
+Pagani, Edward	edward-pagani	person
 Fresenius Medical Care HIMG Dialysis Center	fresenius-medical-care-himg-dialysis-center	company
+E. Toomey, David	david-e-toomey	person
 Fresenius Medical Care OKCD	fresenius-medical-care-okcd	company
+Calverley, Stuart	stuart-calverley	person
 Hemasoft	hemasoft	company
+S. Schafer, Glenn	glenn-s-schafer	person
+Harris, Simon	simon-harris-3	person
+Bhandari, Surabhi	surabhi-bhandari	person
 Avenue Code	avenue-code	company
+Miller, Stu	stu-miller	person
+Hobgood, Seth	seth-hobgood	person
+Mcneese, Jeffrey	jeffrey-mcneese	person
+Patten, Stephan	stephan-patten	person
+Cianflone, Marco	marco-cianflone	person
+Tsimiklis, Vasilios	vasilios-tsimiklis	person
 Impulse Solutions	impulse-solutions	company
 JHP Pharmaceuticals	jhp-pharmaceuticals	company
+F. Braly, Angela	angela-f-braly	person
 Allegheny General Hospital	allegheny-general-hospital	company
 Inflexxion	inflexxion	company
 MDLIVE	mdlive	company
 Quantum Health	quantum-health	company
+Airwavz Solutions	airwavz-solutions	company
 Wiink Inc	wiink-inc	company
 Lab21	lab21	company
 Dedalus Group	dedalus-group	company
 Rehabtics	rehabtics	company
 Valencia Technologies	valencia-technologies	company
 MusiCares	musicares	company
+Patara Pharma	patara-pharma	company
 Awearables	awearables	company
 The Law Firm of Shihab & Associates	the-law-firm-of-shihab-associates	company
 OffshoreMedicalCoding	offshoremedicalcoding	company
@@ -7576,6 +7748,7 @@ Planet Media Studios	planet-media-studios	company
 Pya Analytics	pya-analytics	company
 I-Pulse	i-pulse	company
 MobileLogix	mobilelogix	company
+Tricida	tricida	company
 e Health Access	e-health-access	company
 SYMIC BIOMEDICAL	symic-biomedical	company
 Executive Financial Enterprises	executive-financial-enterprises	company
@@ -7587,6 +7760,7 @@ Safelight Security Advisors	safelight-security-advisors	company
 Hygea Holdings	hygea-holdings	company
 Tinderbox Working Capital	tinderbox-working-capital	company
 Softheon	softheon	company
+MENABANQER	menabanqer	company
 Apani Networks	apani-networks	company
 HermesIQ	hermesiq	company
 StemSave	stemsave	company
@@ -7594,6 +7768,28 @@ Sarnova	sarnova	company
 Birchstreet Systems	birchstreet-systems	company
 Nightingale	nightingale	company
 Cool Logistics	cool-logistics	company
+BirlikteAlalim.com	birliktealalim-com	company
+Probity	probity	company
+Cardiology Surgery Hospital India	cardiology-surgery-hospital-india	company
+White Plume Technologies	white-plume-technologies	company
+PM Pediatrics	pm-pediatrics	company
+HSK Instruments	hsk-instruments	company
+Hindsait, Inc.	hindsait-inc	company
+Matthew Walker Comprehensive Health Center	matthew-walker-comprehensive-health-center	company
+WorldDoc	worlddoc	company
+The Health Wagon	the-health-wagon	company
+WebdenAl.com	webdenal-com	company
+Hinacom	hinacom	company
+Soliday TeleHealth	soliday-telehealth	company
+Health Asset Management, Inc.	health-asset-management-inc	company
+SoundTag	soundtag	company
+VitalTrax	vitaltrax	company
+DOCUSYS	docusys	company
+BoundaryMedical	boundarymedical	company
+HMS Health	hms-health	company
+AmerisourceBergen Drug Corporation	amerisourcebergen-drug-corporation	company
+Jadak Technologies	jadak-technologies	company
+HealthNinja	healthninja	company
 1-800-Pharmacy	1800pharmacy	company
 HealthcareMagic	healthcaremagic	company
 Intridea	intridea	company
@@ -7832,11 +8028,11 @@ HIPAAPractice	hipaapractice	company
 Inbox Health	iqcopay	company
 Accountable	accountable	company
 DietKart	dietkart	company
+Litesprite	litesprite	company
 Twelve77 Software Studios	twelve77-software-studios	company
 A Right Place for Seniors	a-right-place-for-seniors	company
 Healarium	healarium	company
 American Skin Institute - Westlake Village	american-skin-institute-westlake-village	company
-Owlet	owlet	company
 West Valley Urgent Care	west-valley-urgent-care	company
 The BranDR	the-brandr	company
 Infermedica	infermedica	company
@@ -7849,7 +8045,6 @@ WellRight	wellright	company
 DrAvailable	dravailable	company
 Gipis	gipis	company
 Additive Analytics	additive-analytics	company
-ReelDx, Inc.	reeldx-inc	company
 Doctor Fun	doctor-fun	company
 Akron Children’s Hospital	akron-childrens-hospital	company
 DoktorSaati	doktorsaati	company
@@ -7866,6 +8061,9 @@ AcheiConsulta	acheiconsulta	company
 Achei Consulta	achei-consulta	company
 Hippocrates Health Institute	hippocrates-health-institute	company
 Medprex	medprex	company
+Kytera	kytera	company
+Bellabeat	bellabeat	company
+Medical Engineering Innovations	medical-engineering-innovations	company
 Sequoia Capital	sequoia-capital	financial-organization
 Draper Fisher Jurvetson (DFJ)	draper-fisher-jurvetson	financial-organization
 CommonAngels	commonangels-3	financial-organization
@@ -7903,3 +8101,18 @@ Malate, Lorelie Ortiz Luis	lorelie-ortiz-luis-malate	person
 Egan, NP-C, CDE, ABAAHP, Pamela	pamela-egan-np-c-cde-abaahp	person
 Runnals, Brian	brian-runnals	person
 Samsel, Jon	jon-samsel	person
+Rivera, Lissette	lissette-rivera	person
+Lawrence, Jenni	jenni-lawrence	person
+Fung, Christopher	christopher-fung	person
+Minter, Michael	michael-minter-2	person
+Request, Quick	quick-request	person
+Nelson, Bill	bill-nelson-2	person
+Johnson, Florence	florence-johnson	person
+Lourenço, Felipe	felipe-loureno	person
+O'Dore, Andy	andy-odore	person
+McCarrick, Christian	christian-mccarrick	person
+Goel, Pramod	pramod-goel	person
+Crowder, Randall	randall-crowder-2	person
+North, Tim	tim-north	person
+Suhrheinrich, Steve	steve-suhrheinrich	person
+Caneva, Collin	collin-caneva	person
