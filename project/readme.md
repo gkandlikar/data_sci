@@ -42,3 +42,9 @@ See visualizations folder
 
 ### Sample API output ###
 See samples folder
+
+###Naive Bayes model###
+check out the naive_bayes ipython notebook
+
+###Sample dataset###
+https://s3.amazonaws.com/kandlikards/cb_test_train.zip
