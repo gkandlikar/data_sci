@@ -1,2 +1,1 @@
-data_sci
-========
+### Please proceed to the project folder ###
